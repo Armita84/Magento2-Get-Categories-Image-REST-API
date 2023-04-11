@@ -1,5 +1,5 @@
 # Magento2-Get-Categories-Image-REST-API
-## This Magento 2 Module is created to get all categories images via REST API.
+## This Magento2 Module is created to get all categories images via REST API.
 
 # Installation:
 1- Download the Repository File. 
